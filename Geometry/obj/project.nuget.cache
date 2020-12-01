@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a4J/CHvehCf235r2WsHdKnRyLstpbvJZIPgWWx0sf2TmEVSTQ50MAEQdrYY81fCcS0IyRSJuRlRMZnnQ8liAQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ksmil\\RiderProjects\\Geometry\\Geometry\\Geometry.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ksmil\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

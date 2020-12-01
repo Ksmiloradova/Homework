@@ -1,0 +1,10 @@
+{"A":11,"Name":"Triangle","Area":7.238407071238709,"Perimeter":33}
+{"A":68,"Name":"Rectangle","Area":4624.0,"Perimeter":272}
+{"A":66,"Name":"Rectangle","Area":4356.0,"Perimeter":264}
+{"A":5,"Name":"Pentagon","Area":43.01193501472417,"Perimeter":25}
+{"A":57,"Name":"Pentagon","Area":5589.831074513553,"Perimeter":285}
+{"A":19,"Name":"Pentagon","Area":621.092341612617,"Perimeter":95}
+{"A":37,"Name":"Hexagon","Area":2371.177555561793,"Perimeter":222}
+{"A":42,"Name":"Hexagon","Area":3055.337624551499,"Perimeter":252}
+{"A":31,"Name":"Hexagon","Area":1664.500826073691,"Perimeter":186}
+{"A":97,"Name":"Hexagon","Area":16296.866048415564,"Perimeter":582}
